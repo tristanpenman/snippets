@@ -4,10 +4,15 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 
 ## Categories
 
+* [Bash](#bash)
 * [Linux](#linux)
 * [Misc](#misc)
 
 ---
+
+### Bash
+
+* [Bash Special Variables](bash/bash-special-variables.md)
 
 ### Linux
 
