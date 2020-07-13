@@ -11,6 +11,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 
 ### Linux
 
+* [Ad-hoc HTTP request monitoring](linux/ad-hoc-http-request-monitoring.md)
 * [Force a kernel panic](linux/force-a-kernel-panic.md)
 * [Reboot on kernel panic](linux/reboot-on-kernel-panic.md)
 
