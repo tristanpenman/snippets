@@ -7,6 +7,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 * [Bash](#bash)
 * [Linux](#linux)
 * [Misc](#misc)
+* [MySQL](#mysql)
 
 ---
 
@@ -23,3 +24,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 ### Misc
 
 * [Clock sync between Linux and Windows](misc/clock-sync-between-linux-and-windows.md)
+
+### MySQL
+
+* [Simple setup for WordPress](mysql/simple-setup-for-wordpress.md)
