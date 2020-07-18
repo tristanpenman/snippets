@@ -8,6 +8,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 * [Linux](#linux)
 * [Misc](#misc)
 * [MySQL](#mysql)
+* [PostgreSQL](#postgresql)
 
 ---
 
@@ -28,3 +29,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 ### MySQL
 
 * [Simple setup for WordPress](mysql/simple-setup-for-wordpress.md)
+
+### PostgreSQL
+
+* [Recursive query cheatsheet](postgresql/recursive-query-cheatsheet.md)
