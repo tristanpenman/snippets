@@ -15,6 +15,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 ### Bash
 
 * [Bash Special Variables](bash/bash-special-variables.md)
+* [Convert Hex to Base64](bash/convert-hex-to-base64.md)
 
 ### Linux
 
