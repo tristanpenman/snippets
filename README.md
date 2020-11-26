@@ -17,6 +17,10 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 * [Bash Special Variables](bash/bash-special-variables.md)
 * [Convert Hex to Base64](bash/convert-hex-to-base64.md)
 
+### Crypto
+
+* [OpenSSL Cheatsheet](crypto/openssl-cheatsheet.md)
+
 ### Linux
 
 * [Ad-hoc HTTP request monitoring](linux/ad-hoc-http-request-monitoring.md)
