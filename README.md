@@ -30,6 +30,7 @@ Inspired [this collection of TILs](https://github.com/jbranchaud/til), this repo
 ### Misc
 
 * [Clock sync between Linux and Windows](misc/clock-sync-between-linux-and-windows.md)
+* [Working with mDNS](misc/working-with-mdns.md)
 
 ### MySQL
 
