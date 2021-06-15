@@ -10,6 +10,10 @@
 
     openssl x509 -pubkey -noout -in example.pem > example.pub
 
+Alternatively, you can use `ssh-keygen`, e.g:
+
+    ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub
+
 ### Signatures
 
 #### Sign a document:
