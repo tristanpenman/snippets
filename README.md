@@ -5,6 +5,7 @@ Inspired by [this collection of TILs](https://github.com/jbranchaud/til), this r
 ## Categories
 
 * [Bash](#bash)
+* [Git](#git)
 * [Linux](#linux)
 * [Misc](#misc)
 * [MySQL](#mysql)
@@ -20,6 +21,10 @@ Inspired by [this collection of TILs](https://github.com/jbranchaud/til), this r
 ### Crypto
 
 * [OpenSSL Cheatsheet](crypto/openssl-cheatsheet.md)
+
+### Git
+
+* [Bump a submodule without checking it out](git/bump-a-submodule-without-checking-it-out.md)
 
 ### Linux
 
