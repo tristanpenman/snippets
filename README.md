@@ -13,6 +13,7 @@ These were collected while working on various projects, or through the daily cho
 * [Misc](#misc)
 * [MySQL](#mysql)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 
 ---
 
@@ -51,3 +52,7 @@ These were collected while working on various projects, or through the daily cho
 ### PostgreSQL
 
 * [Recursive query cheatsheet](postgresql/recursive-query-cheatsheet.md)
+
+### Python
+
+* [Cleaning a Jupyter notebook](python/cleaning-a-jupyter-notebook.md)
