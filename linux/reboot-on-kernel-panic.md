@@ -1,4 +1,4 @@
-# Reboot on Kernel panic
+# Reboot on kernel panic
 
 It can be useful on embedded/IoT Linux devices to automatically reboot on a kernel panic/oops.
 

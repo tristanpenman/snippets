@@ -7,6 +7,7 @@ Inspired by [this collection of TILs](https://github.com/jbranchaud/til), this r
 * [Bash](#bash)
 * [Git](#git)
 * [Linux](#linux)
+* [Make](#make)
 * [Misc](#misc)
 * [MySQL](#mysql)
 * [PostgreSQL](#postgresql)
@@ -31,6 +32,10 @@ Inspired by [this collection of TILs](https://github.com/jbranchaud/til), this r
 * [Ad-hoc HTTP request monitoring](linux/ad-hoc-http-request-monitoring.md)
 * [Force a kernel panic](linux/force-a-kernel-panic.md)
 * [Reboot on kernel panic](linux/reboot-on-kernel-panic.md)
+
+### Make
+
+* [List of automatic variables](make/list-of-automatic-variables.md)
 
 ### Misc
 

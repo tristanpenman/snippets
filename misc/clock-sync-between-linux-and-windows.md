@@ -1,4 +1,4 @@
-# Clock Sync Between Linux and Windows
+# Clock sync between Linux and Windows
 
 ## Problem
 
