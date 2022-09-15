@@ -1,6 +1,8 @@
 # Snippets
 
-Inspired by [this collection of TILs](https://github.com/jbranchaud/til), this repo is my personal collection of snippets, notes and cheatsheets. This is based on projects that I've worked on, and the general hassle of maintaining a usable system.
+This is my personal collection of snippets, notes and cheatsheets.
+
+These were collected while working on various projects, or through the daily chore of maintaining a usable operating system.
 
 ## Categories
 
