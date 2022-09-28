@@ -56,3 +56,7 @@ These were collected while working on various projects, or through the daily cho
 ### Python
 
 * [Cleaning a Jupyter notebook](python/cleaning-a-jupyter-notebook.md)
+
+### Ruby
+
+* [Annotating a method like Sorbet](ruby/annotating-a-method-like-sorbet.md)
