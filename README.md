@@ -14,6 +14,7 @@ These were collected while working on various projects, or through the daily cho
 * [MySQL](#mysql)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [Ruby](#ruby)
 
 ---
 
