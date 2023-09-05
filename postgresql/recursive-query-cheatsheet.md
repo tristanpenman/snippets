@@ -1,5 +1,5 @@
 
-# Recursive queries in PostgreSQL
+# Recursive Query Cheatsheet
 
 ## Problem
 
