@@ -37,6 +37,7 @@ These were collected while working on various projects, or through the daily cho
 * [Ad-hoc HTTP request monitoring](linux/ad-hoc-http-request-monitoring.md)
 * [Force a kernel panic](linux/force-a-kernel-panic.md)
 * [Reboot on kernel panic](linux/reboot-on-kernel-panic.md)
+* [Remove residual Debian packages](linux/remove-residual-debian-packages.md)
 
 ### Make
 
