@@ -30,6 +30,7 @@ These were collected while working on various projects, or through the daily cho
 ### Git
 
 * [Bump a submodule without checking it out](git/bump-a-submodule-without-checking-it-out.md)
+* [Clone a repo at a particular commit](git/clone-a-repo-at-a-particular-commit.md)
 * [Fetch many repos at once](git/fetch-many-repos-at-once.md)
 
 ### Linux
