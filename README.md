@@ -7,6 +7,7 @@ These were collected while working on various projects, or through the daily cho
 ## Categories
 
 * [Bash](#bash)
+* [Debian](#debian)
 * [Git](#git)
 * [Linux](#linux)
 * [Make](#make)
