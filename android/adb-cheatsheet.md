@@ -47,9 +47,14 @@ Install an APK on the device.
 
 Remove a specific package. Note that this takes the package name `<pkg>` rather than a path.
 
-### `adb shell pm list packages`
+### `adb shell pm list packages [options]`
 
 Lists all packages installed on the device.
+
+Options can include:
+
+* `adb shell pm list packages -d` - List all disabled packages.
+* `adb shell pm list packages -e` - List all enabled packages.
 
 ### `adb shell pm clear <pkg>`
 
@@ -58,6 +63,14 @@ Clears data storage and cache for a given package, where the `<pkg>` is the pack
 ### `adb shell dumpsys package <pkg>`
 
 Dump general package information relating to a specific package.
+
+### `adb shell pm disable-user <pkg>`
+
+Disable a package. Good for disabling system packages, which cannot be uninstalled.
+
+### `adb shell pm enable <pkg>`
+
+Enable a package that was previously disabled.
 
 ## Activity Management
 
@@ -84,6 +97,10 @@ Dump information relating to the currently running activities (i.e Android Activ
 ### `adb shell dumpsys activity broadcasts`
 
 Dump information about the broadcast receivers on the device.
+
+### `adb shell am force-stop <pkg>`
+
+Force activities and services associated with a given package to stop running.
 
 ## System Info
 
