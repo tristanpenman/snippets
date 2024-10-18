@@ -68,6 +68,10 @@ Dump general package information relating to a specific package.
 
 Disable a package. Good for disabling system packages, which cannot be uninstalled.
 
+You may need to specify a user ID to make this work:
+
+* `adb shell pm disable-user --user 0 <pkg>` - Disable package for user 0 (the default)
+
 ### `adb shell pm enable <pkg>`
 
 Enable a package that was previously disabled.
