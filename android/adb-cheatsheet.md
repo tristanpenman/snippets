@@ -164,3 +164,12 @@ Interesting things you can do if you have serial access to a device (e.g. via a 
 ### `stop adbd` and `start adbd`
 
 Stop or start the ADB daemon running on the device.
+
+## A/B Updates
+
+If you are working with a device that supports A/B partitioning, you can switch boot slots using `bootctl`:
+
+* `adb shell bootctl get-current-slot` - returns 0 or 1 to indicate boot slot
+* `adb shell bootctl set-active-boot-slot <0|1>` - enter 0 or 1 to choose which boot slot you want to use
+
+After doing this, run `adb reboot` to reboot into the chosen partition.
