@@ -47,6 +47,7 @@ These were collected while working on various projects, or through the daily cho
 ### Linux
 
 * [Ad-hoc HTTP request monitoring](linux/ad-hoc-http-request-monitoring.md)
+* [Create a swap file](linux/create-a-swap-file.md)
 * [Force a kernel panic](linux/force-a-kernel-panic.md)
 * [Reboot on kernel panic](linux/reboot-on-kernel-panic.md)
 
