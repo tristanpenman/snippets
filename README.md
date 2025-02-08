@@ -67,6 +67,7 @@ These were collected while working on various projects, or through the daily cho
 
 ### PostgreSQL
 
+* [Check table sizes](postgresql/check-table-sizes.md)
 * [Dump a Database from RDS](postgresql/dump-a-database-from-rds.md)
 * [Recursive query cheatsheet](postgresql/recursive-query-cheatsheet.md)
 
