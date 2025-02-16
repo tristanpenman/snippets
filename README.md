@@ -51,6 +51,10 @@ These were collected while working on various projects, or through the daily cho
 * [Force a kernel panic](linux/force-a-kernel-panic.md)
 * [Reboot on kernel panic](linux/reboot-on-kernel-panic.md)
 
+### macOS
+
+* [Disable Microsoft Defender](macos/disable-microsoft-defender.md)
+
 ### Make
 
 * [List of automatic variables](make/list-of-automatic-variables.md)
