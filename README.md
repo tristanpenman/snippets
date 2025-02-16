@@ -8,9 +8,11 @@ These were collected while working on various projects, or through the daily cho
 
 * [Android](#android)
 * [Bash](#bash)
+* [Crypto](#crypto)
 * [Debian](#debian)
 * [Git](#git)
 * [Linux](#linux)
+* [macOS](#macos)
 * [Make](#make)
 * [Misc](#misc)
 * [MySQL](#mysql)
