@@ -50,6 +50,7 @@ These were collected while working on various projects, or through the daily cho
 
 * [Ad-hoc HTTP request monitoring](linux/ad-hoc-http-request-monitoring.md)
 * [Create a swap file](linux/create-a-swap-file.md)
+* [Disable Ubuntu MOTD banner](linux/disable-ubuntu-motd-banner.md)
 * [Force a kernel panic](linux/force-a-kernel-panic.md)
 * [Reboot on kernel panic](linux/reboot-on-kernel-panic.md)
 
@@ -74,6 +75,7 @@ These were collected while working on various projects, or through the daily cho
 ### PostgreSQL
 
 * [Check table sizes](postgresql/check-table-sizes.md)
+* [Create a read only user](postgresql/create-a-read-only-user.md)
 * [Dump a Database from RDS](postgresql/dump-a-database-from-rds.md)
 * [Find unused indexes](postgresql/find-unused-indexes.md)
 * [Recursive query cheatsheet](postgresql/recursive-query-cheatsheet.md)
