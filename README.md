@@ -79,6 +79,7 @@ These were collected while working on various projects, or through the daily cho
 * [Create a read only user](postgresql/create-a-read-only-user.md)
 * [Dump a Database from RDS](postgresql/dump-a-database-from-rds.md)
 * [Find unused indexes](postgresql/find-unused-indexes.md)
+* [Partition a table by month](postgresql/partition-a-table-by-month.md)
 * [Recursive query cheatsheet](postgresql/recursive-query-cheatsheet.md)
 
 ### Python
