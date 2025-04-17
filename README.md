@@ -57,6 +57,7 @@ These were collected while working on various projects, or through the daily cho
 ### macOS
 
 * [Disable Microsoft Defender](macos/disable-microsoft-defender.md)
+* [Prevent Apps Loading on Startup](macos/prevent-apps-loading-on-startup.md)
 
 ### Make
 
