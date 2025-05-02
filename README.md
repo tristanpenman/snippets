@@ -78,6 +78,7 @@ These were collected while working on various projects, or through the daily cho
 
 * [Check table sizes](postgresql/check-table-sizes.md)
 * [Create a read only user](postgresql/create-a-read-only-user.md)
+* [Drop all tables](postgresql/drop-all-tables.md)
 * [Dump a Database from RDS](postgresql/dump-a-database-from-rds.md)
 * [Find unused indexes](postgresql/find-unused-indexes.md)
 * [Partition a table by month](postgresql/partition-a-table-by-month.md)
