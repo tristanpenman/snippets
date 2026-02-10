@@ -46,6 +46,7 @@ These were collected while working on various projects, or through the daily cho
 * [Clone a repo at a particular commit](git/clone-a-repo-at-a-particular-commit.md)
 * [Count lines added and removed](git/count-lines-added-and-removed.md)
 * [Fetch many repos at once](git/fetch-many-repos-at-once.md)
+* [Insert a new root commit](git/insert-a-new-root-commit.md)
 
 ### Linux
 
