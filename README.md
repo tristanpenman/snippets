@@ -30,6 +30,7 @@ These were collected while working on various projects, or through the daily cho
 
 * [Bash Special Variables](bash/bash-special-variables.md)
 * [Convert Hex to Base64](bash/convert-hex-to-base64.md)
+* [Terminal Background Colours](bash/terminal-background-colours.md)
 
 ### Crypto
 
