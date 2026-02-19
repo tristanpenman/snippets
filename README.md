@@ -91,6 +91,7 @@ These were collected while working on various projects, or through the daily cho
 ### Python
 
 * [Cleaning a Jupyter notebook](python/cleaning-a-jupyter-notebook.md)
+* [Suppress warnings](python/suppress-warnings.md)
 
 ### Ruby
 
